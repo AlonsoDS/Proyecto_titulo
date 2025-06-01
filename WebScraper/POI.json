@@ -1,0 +1,1451 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 44641283560,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6409016251564,
+                    -33.45138901318246
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Food",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Panadería Y Minimarket",
+                "tilequery": {
+                    "distance": 18.589271387995087,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4472635521,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64121142029762,
+                    -33.45174484034545
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "汽车店",
+                "type": "Car",
+                "category_en": "Car Dealership",
+                "filterrank": 2,
+                "brand": "Renault",
+                "sizerank": 15,
+                "iso_3166_1": "CL",
+                "maki": "car",
+                "iso_3166_2": "CL-RM",
+                "name_es": "Renault Repuestos Original",
+                "name_script": "Latin",
+                "class": "store_like",
+                "name": "Renault",
+                "tilequery": {
+                    "distance": 39.441185453474745,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4472635531,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64113229513168,
+                    -33.45185449747874
+                ]
+            },
+            "properties": {
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "sizerank": 16,
+                "filterrank": 3,
+                "type": "Company",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "general",
+                "name": "Teamcebra",
+                "tilequery": {
+                    "distance": 42.311838966058964,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4472635511,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64133077859879,
+                    -33.451369990934516
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "窗户修理店",
+                "type": "Window Construction",
+                "filterrank": 4,
+                "category_en": "Window Construction",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "commercial_services",
+                "name": "Vidrios Divicon",
+                "tilequery": {
+                    "distance": 48.624388914485024,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44441221070,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64096733927727,
+                    -33.45101080535203
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "便利店",
+                "type": "Convenience",
+                "filterrank": 4,
+                "category_en": "Convenience Store",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "convenience",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "food_and_drink_stores",
+                "name": "Jasima",
+                "tilequery": {
+                    "distance": 60.925467287710354,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4472635541,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64115107059479,
+                    -33.45211856918993
+                ]
+            },
+            "properties": {
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "sizerank": 15,
+                "filterrank": 3,
+                "type": "Company",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "general",
+                "name": "Autokai",
+                "tilequery": {
+                    "distance": 68.60282754369405,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4472635501,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6414045393467,
+                    -33.45105668272114
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "窗户修理店",
+                "type": "Window Construction",
+                "filterrank": 3,
+                "category_en": "Window Construction",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "commercial_services",
+                "name": "DV Divicen Ltda.",
+                "tilequery": {
+                    "distance": 75.02329028199695,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4472635551,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64123153686523,
+                    -33.45247439335954
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "汽车修理店",
+                "type": "Car Repair",
+                "filterrank": 2,
+                "category_en": "Car Repair Shop",
+                "sizerank": 15,
+                "iso_3166_1": "CL",
+                "maki": "car-repair",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "commercial_services",
+                "name": "Indra",
+                "tilequery": {
+                    "distance": 108.12637565700219,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46956641980,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63957124948502,
+                    -33.45172134237026
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "汽车修理店",
+                "type": "Car Repair",
+                "filterrank": 5,
+                "category_en": "Car Repair Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "car-repair",
+                "iso_3166_2": "CL-RM",
+                "name_es": "Maria soto bodega",
+                "name_script": "Latin",
+                "class": "commercial_services",
+                "name": "Maria soto bodega",
+                "tilequery": {
+                    "distance": 120.8270783195766,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44553932930,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64122214913368,
+                    -33.452631045046815
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Servifren",
+                "tilequery": {
+                    "distance": 124.44930990693373,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4472635491,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64150914549828,
+                    -33.45053188892796
+                ]
+            },
+            "properties": {
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "sizerank": 16,
+                "filterrank": 4,
+                "type": "Company",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "general",
+                "name": "Fabrestel",
+                "tilequery": {
+                    "distance": 128.45105105562706,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44553932940,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64137101173401,
+                    -33.4526545427755
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Centro Wagen",
+                "tilequery": {
+                    "distance": 131.35716075021696,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44641283620,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64092576503754,
+                    -33.45282685925797
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Repuestos Dipa",
+                "tilequery": {
+                    "distance": 141.54662559950015,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639230960,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64153462648392,
+                    -33.452751890440794
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Serviautos Meléndez",
+                "tilequery": {
+                    "distance": 147.31892312478445,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639230950,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64166337251663,
+                    -33.45277762601221
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Embragues",
+                "tilequery": {
+                    "distance": 155.32800709135725,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44552886240,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63966780900955,
+                    -33.45256278970357
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Locksmith",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Cerrajeria Casa stop",
+                "tilequery": {
+                    "distance": 157.3264815247763,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92887272860,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63961416482925,
+                    -33.45057105275352
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "餐馆",
+                "type": "Restaurant",
+                "filterrank": 1,
+                "category_en": "Restaurant",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "restaurant",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "food_and_drink",
+                "name": "Restaurant Chen Chen",
+                "tilequery": {
+                    "distance": 158.5762729023934,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639230940,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64172372221947,
+                    -33.45278769645111
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Repuestos Meta Ltda.",
+                "tilequery": {
+                    "distance": 159.08056051943615,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52201892230,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64256995916367,
+                    -33.45160049554023
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "餐馆",
+                "type": "Restaurant",
+                "filterrank": 2,
+                "category_en": "Restaurant",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "restaurant",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "food_and_drink",
+                "name": "Nuevos Sabores",
+                "tilequery": {
+                    "distance": 159.54131539165968,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639230930,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6417827308178,
+                    -33.452795529013905
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Locksmith",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Chapas y Cremalleras",
+                "tilequery": {
+                    "distance": 162.67105491640993,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52201892240,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64259812235832,
+                    -33.4514013216936
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "快餐店",
+                "type": "Fast Food",
+                "filterrank": 5,
+                "category_en": "Fast Food",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "fast-food",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "food_and_drink",
+                "name": "La Pica D Mijael",
+                "tilequery": {
+                    "distance": 162.92845933010508,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639230920,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64184978604317,
+                    -33.452807837325416
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Adaptadores",
+                "tilequery": {
+                    "distance": 167.19659031606207,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639230910,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64190611243248,
+                    -33.452815669886384
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Repuestos Accesorios",
+                "tilequery": {
+                    "distance": 170.8614474601463,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639230900,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64196512103081,
+                    -33.452825740320876
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Repuestos Diaz",
+                "tilequery": {
+                    "distance": 174.95831862004786,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4481905221,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64211666584015,
+                    -33.450379709323634
+                ]
+            },
+            "properties": {
+                "iso_3166_1": "CL",
+                "maki": "restaurant-pizza",
+                "sizerank": 16,
+                "filterrank": 5,
+                "type": "Restaurant",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "food_and_drink",
+                "name": "MIlano's Pizza",
+                "tilequery": {
+                    "distance": 175.11457723795667,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4472635561,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64098343253136,
+                    -33.4531323285445
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "汽车修理店",
+                "type": "Car Repair",
+                "filterrank": 4,
+                "category_en": "Car Repair Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "car-repair",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "commercial_services",
+                "name": "Mann Filter",
+                "tilequery": {
+                    "distance": 175.67928278763748,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5394786381,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64265981316566,
+                    -33.451032065599264
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "大学建筑",
+                "type": "University",
+                "filterrank": 5,
+                "category_en": "University Building",
+                "sizerank": 15,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "education",
+                "name": "Universidad Católica Silva Henríquez",
+                "tilequery": {
+                    "distance": 177.43675747232436,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4494632341,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64170494675636,
+                    -33.45298574817865
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 4,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Ssangyong",
+                "tilequery": {
+                    "distance": 177.56967092513892,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4481905241,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64216494560242,
+                    -33.45038642313534
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "汽车修理店",
+                "type": "Car Repair",
+                "filterrank": 5,
+                "category_en": "Car Repair Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "car-repair",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "commercial_services",
+                "name": "Servicios Recon",
+                "tilequery": {
+                    "distance": 177.61004111349314,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639225820,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64202144742012,
+                    -33.452835810754195
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Korea 3",
+                "tilequery": {
+                    "distance": 178.98529071697726,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44441221200,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64058244228363,
+                    -33.453152469338754
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Motorcycle",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Imoto",
+                "tilequery": {
+                    "distance": 179.30656770941238,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45968521810,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64140319824219,
+                    -33.45310547414486
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Motorcycle Repair",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Welding Shop – MIG",
+                "tilequery": {
+                    "distance": 179.67556772724808,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4485256091,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64134955406189,
+                    -33.45312449601213
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商业区",
+                "type": "Commercial",
+                "filterrank": 1,
+                "category_en": "Commercial Area",
+                "sizerank": 14,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "commercial_services",
+                "name": "Centro Del Repuesto",
+                "tilequery": {
+                    "distance": 180.36402689932254,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60969874050,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6428100168705,
+                    -33.451619517737605
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "快餐店",
+                "type": "Fast Food",
+                "filterrank": 5,
+                "category_en": "Fast Food",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "fast-food",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "food_and_drink",
+                "name": "M & M Mar",
+                "tilequery": {
+                    "distance": 181.92449437533242,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639225810,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64207643270493,
+                    -33.45284364331265
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Frenos B.Correa",
+                "tilequery": {
+                    "distance": 182.80835020342494,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4494632351,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6418189406395,
+                    -33.45300700794172
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 4,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Davalos – Repuestos Automotrices",
+                "tilequery": {
+                    "distance": 184.59116346936472,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109596622180,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6404335796833,
+                    -33.44991645506092
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "学校",
+                "type": "School",
+                "filterrank": 5,
+                "category_en": "School",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "school",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "education",
+                "name": "Escuela República Oriental del Uruguay",
+                "tilequery": {
+                    "distance": 185.58045713326607,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639225800,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6421260535717,
+                    -33.45287385460286
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "汽车修理店",
+                "type": "Car Repair",
+                "category_en": "Car Repair Shop",
+                "filterrank": 5,
+                "brand": "Renault",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "car-repair",
+                "iso_3166_2": "CL-RM",
+                "name_script": "Latin",
+                "class": "commercial_services",
+                "name": "Renault Comercial Andina Ltda.",
+                "tilequery": {
+                    "distance": 188.30637622009138,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99067663800,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64167141914368,
+                    -33.44997352274866
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "纪念碑",
+                "type": "Memorial",
+                "filterrank": 4,
+                "category_en": "Memorial",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "monument",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "historic",
+                "name": "Cristian Martínez",
+                "tilequery": {
+                    "distance": 190.81576975883561,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60970052540,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64289048314095,
+                    -33.4511126306994
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Hairdresser",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Peluquería",
+                "tilequery": {
+                    "distance": 195.4248082669269,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60970133950,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64276576042175,
+                    -33.45080155948271
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Yes",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "El Panal",
+                "tilequery": {
+                    "distance": 196.18572769169128,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60970106460,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6429173052311,
+                    -33.451038779360466
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Yes",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Fernando",
+                "tilequery": {
+                    "distance": 200.01589907898278,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44639225790,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64232051372528,
+                    -33.452883925030584
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Liqui Moly",
+                "tilequery": {
+                    "distance": 200.9683559294066,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4483508221,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63871696591377,
+                    -33.450991783021124
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Motorcycle",
+                "filterrank": 4,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Pit Bike",
+                "tilequery": {
+                    "distance": 208.27059952435616,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4483508231,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.638757199049,
+                    -33.45087876791038
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Motorcycle",
+                "filterrank": 4,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "JJR Motos",
+                "tilequery": {
+                    "distance": 208.8495650125078,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4483508191,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63862711191177,
+                    -33.4513106862524
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Motorcycle",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Bikestore",
+                "tilequery": {
+                    "distance": 208.8627565466397,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34594529610,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64150780439377,
+                    -33.44972846711808
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "自行车出租点",
+                "type": "Bicycle Rental",
+                "category_en": "Bicycle Rental",
+                "filterrank": 5,
+                "brand": "Bikesantiago",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "bicycle",
+                "iso_3166_2": "CL-RM",
+                "name_script": "Latin",
+                "class": "commercial_services",
+                "name": "Bikesantiago",
+                "tilequery": {
+                    "distance": 211.1577779577117,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4483508201,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63863649964333,
+                    -33.45110591694391
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Motorcycle Repair",
+                "filterrank": 5,
+                "category_en": "Shop",
+                "sizerank": 16,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "RX Moto",
+                "tilequery": {
+                    "distance": 212.11848798918768,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4483508181,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63856676220894,
+                    -33.45153559624719
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Motorcycle",
+                "filterrank": 3,
+                "category_en": "Shop",
+                "sizerank": 15,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "IMoto",
+                "tilequery": {
+                    "distance": 212.7597525134077,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4472403821,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64037457108498,
+                    -33.45342996425022
+                ]
+            },
+            "properties": {
+                "category_zh-Hans": "商店",
+                "type": "Car Parts",
+                "filterrank": 3,
+                "category_en": "Shop",
+                "sizerank": 15,
+                "iso_3166_1": "CL",
+                "maki": "marker",
+                "name_script": "Latin",
+                "iso_3166_2": "CL-RM",
+                "class": "store_like",
+                "name": "Autoparts",
+                "tilequery": {
+                    "distance": 213.01948850448366,
+                    "geometry": "point",
+                    "layer": "poi_label"
+                }
+            }
+        }
+    ]
+}

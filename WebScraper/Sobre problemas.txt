@@ -1,0 +1,47 @@
+
+
+UF
+2.400
+Error con el link https://www.portalinmobiliario.com/MLC-2635254348: 'NoneType' object has no attribute 'find_all'
+Las 3 lineas anteriores son de una entrada que no alcanza a escribirse en el csv.
+
+
+UF
+1.550      
+25 m²      
+0 m²       
+0
+1
+1
+0
+0
+25
+Un Ambiente
+Poniente   
+6 años     
+40000 CLP  
+
+
+
+==================================================================================
+$
+123.000.000
+56 m²
+3 m²
+2
+2
+0
+0
+50000 CLP
+
+Error con el link https://www.portalinmobiliario.com/MLC-2563461350: list index out of range ---> este link es de los datos de arriba
+UF
+11.400
+250 m²
+100 m²
+4
+4
+2
+1
+Penthhouse
+20 años
