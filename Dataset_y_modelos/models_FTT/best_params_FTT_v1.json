@@ -1,0 +1,10 @@
+{
+  "d_token": 64,
+  "n_head": 8,
+  "n_layers": 2,
+  "ff_mult": 4,
+  "dropout": 0.0,
+  "lr": 0.002508396992707987,
+  "weight_decay": 0.00015100751184240444,
+  "batch_size": 256
+}
